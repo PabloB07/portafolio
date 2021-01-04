@@ -1,0 +1,132 @@
+body {
+    font-family: 'Berkshire Swash', cursive;
+  }
+
+  .bg-dark {
+    background-color: #2f072c !important;
+  
+  
+  }
+  .text-logo{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+  
+  
+  }
+  .hero-section{
+  background-size: cover;
+  background-image: url("../img/bg_hero.jpg");
+  background-repeat: no-repeat;
+  height: 400px;
+  background-position: center;
+  
+  }
+  .textos-header, .textos-header2{
+  color: #d05050;
+  font-size: 50px;
+  font-family: 'Berkshire Swash';
+  margin-left: 30px;
+  text-align: center;
+  
+  
+  }
+  
+  
+  .texto-header1{
+  padding-top: 317px;
+  }
+  
+  #acercademi
+  .margen-sup{
+    margin-top: 50px;
+  }
+  
+  .presentation-title{
+    color: #400327;
+    text-align: center;
+    font-family: 'Pacifico';
+  }
+  .mi-presentacion li{
+    list-style:none;
+  }
+  .mi-presentacion{
+    margin-top: 20px;
+  }
+  .column0, .column1{
+    margin-top: 30px;
+    text-align: justify;
+    font-size: 20px;
+    color: #400326;
+  }
+  
+  .-icon{
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    padding-top: 10px;
+  }
+  .tituloprincipal-experiencia, .titulo-hobby{
+    font-family: 'Pacifico';
+    text-align: center;
+    color: #000000;
+    text-decoration: underline;
+  }
+  .card-text, .card-subttitle{
+    text-align: center;
+  }
+  .fullstack, .autodidacta{
+    max-width: 18rem;
+    color: #cb4242;
+    border-color: #ad6b05;
+  }
+  .titulo-hobbys, .tituloprincipal-experiencia{
+  color: #400326;
+  }
+  #ultimos-trabajos{
+    background-color: #ff0800;
+  }
+  .titulo-trabajos{
+  text-align: center;
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  
+  .primeralinea, .segundalinea{
+    margin-left: auto;
+  }
+  .mc, .iguana, .suricata, .cuppon, .ricomida {
+  max-width: 20rem;
+  margin: 30px;
+  }
+  .m-c, .igu-1, .suri-1, .cup-1, .rico-1{
+    text-align: center;
+  }
+  .tit-mc, .tit-iguana, .tit-suri, .tit-cupon, .tit-rico{
+    text-decoration: none;
+  }
+  .rico-col{
+    padding: 0;
+  }
+  
+  #social-network{
+    background-color: #124045;
+    text-align: center;
+  }
+  .icono-1, .icono-2, .icono-3, .icono-4{
+    color: #ffffff;
+    text-align: right;
+    margin: 10px;
+  
+  }
+  .mi-nombre{
+    font-family: 'Pacifico';
+    color: #ffffff;
+    font-size: 60px;
+  }
+  .btn-secondary{
+    background-color: #009C95;
+    color: #ffffff;
+  border-color: #509F8C;
+  }
+  .card-text, .card-subttitle{
+    text-align: center;
+  }
